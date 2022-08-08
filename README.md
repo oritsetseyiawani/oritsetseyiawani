@@ -44,7 +44,7 @@ Communicate is an instant messaging platforms that allows users to chat.
 ### Unit Tests
 * XCTest
 
-### Learn more about communicate: https://github.com/oritsetseyiawani/communicate ###
+#### Learn more about communicate: https://github.com/oritsetseyiawani/communicate ####
 
 
 
@@ -90,7 +90,7 @@ WeatherIos is an app that allows users to view details on the weather in any spe
 ### Unit Tests
 * XCTest
 
-### Learn more about weatherIos: https://github.com/oritsetseyiawani/weatherIos ###
+#### Learn more about weatherIos: https://github.com/oritsetseyiawani/weatherIos ####
 
 <!--
 
