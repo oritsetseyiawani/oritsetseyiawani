@@ -5,7 +5,7 @@
 I'm very passionate about iOS Development
 </h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300"/>
 </div>
 
 
