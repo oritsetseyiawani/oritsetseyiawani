@@ -9,6 +9,9 @@ I'm very passionate about iOS Development
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300"/>
 </div>
 
+---
+
+### 👨‍💻 About Me :
 
 * 🔭 I’m currently working on Cabbie 
 * Reach me at andrewawani@yahoo.com
