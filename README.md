@@ -12,10 +12,30 @@ I'm very passionate about iOS Development
 * 🔭 I’m currently working on Cabbie 
 * Reach me at andrewawani@yahoo.com
 
+---
 
-<!--
+### :hammer_and_wrench: Languages and Tools :
 
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4J"  alt="Neo4J" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+
+---
 # weatherIos #
 
 WeatherIos is an app that allows users to view details on the weather in any specified location.
@@ -42,12 +62,7 @@ WeatherIos is an app that allows users to view details on the weather in any spe
 * XCTest
 
 #### Learn more about weatherIos: https://github.com/oritsetseyiawani/weatherIos ####
-
-
-
-
-
-
+---
 
 <!--
 
@@ -78,10 +93,7 @@ Communicate is an instant messaging platforms that allows users to chat.
 * XCTest
 
 #### Learn more about communicate: https://github.com/oritsetseyiawani/communicate ####
-
-
-
-
+---
 <!--
 **oritsetseyiawani/oritsetseyiawani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -95,14 +107,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-<!--
-
-
-
 -->
 
 # Cryptocentric #
