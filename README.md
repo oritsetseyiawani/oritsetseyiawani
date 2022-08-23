@@ -74,7 +74,6 @@ Cabbie is a transit app that allows users to book cabs to their desired location
 * MVVM
 
 
-
 ### Learn more about Cabbie: https://github.com/oritsetseyiawani/cabbie ###
 
 ---
