@@ -92,6 +92,7 @@ WeatherIos is an app that allows users to view details on the weather in any spe
 ### Tools Used: ###
 * Swift
 * UiKit
+* Combine
 * CoreLocation
 * URLSession
 * Open Weather's API
