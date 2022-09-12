@@ -65,6 +65,7 @@ Cabbie is a transit app that allows users to book cabs to their desired location
 * UiKit
 * MapKit
 * CoreLocation
+* CocoaPods
 * Firebase Authentication
 * Firestore
 * Google Places API
