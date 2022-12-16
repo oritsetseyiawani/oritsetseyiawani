@@ -13,7 +13,6 @@ I'm very passionate about iOS Development
 
 ### 👨‍💻 About Me :
 
-* 🔭 I’m currently working on Cocktailpedia 
 * Reach me at andrewawani@yahoo.com
 
 ---
