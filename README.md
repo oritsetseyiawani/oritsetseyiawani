@@ -84,7 +84,44 @@ Cocktailpedia is an app that allows users to search and view details on any kind
 
 ---
 
+# jollof-republic
 
+Jollof Republic is a restaurant app that allows users to search, view details on products available and make orders.
+
+<p align="left">
+    <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/0b94b9d4-05ce-4c2a-ac5b-28a49d36d083" width="200" />
+  <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/3afed062-9126-4b75-8853-016d77154e95" width="200" />
+    <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/c5468fa4-4ce9-4db4-9d3b-2eda50b16c14" width="200" />
+   <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/e664f8f8-aaf6-438a-a3d4-54a797cf0e1a" width="200" />
+  <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/7ed7ed20-ed08-42e0-9ffc-51a784ff1f7c" width="200" />   
+   <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/48348212-de64-42bd-a272-2afc2f7ce6dc" width="200" />
+  <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/bb857ac2-99f4-42c4-8f10-6aacc40bc979" width="200" />
+  <img src="https://github.com/oritsetseyiawani/jollof-republic/assets/66224847/22398780-4a76-4a4b-9811-0d8da896bd0f" width="200" />
+  
+</p>
+
+
+### Tools Used: ###
+
+* Swift
+* UiKit
+* Combine
+* URLSession
+* Swift Package Manager
+* Kingfisher
+* Firebase
+
+
+### Architectural Design Pattern:
+* MVVM
+
+### Unit Tests
+* XCTest
+
+
+
+
+---
 # Dogpedia
 
 Dogpedia is an app that allows users to search and view details on any breed of dogs, their sub-breeds as well as multiple images. It also allows users to save their favorite breeds so that they are readily available to be viewed at a later time without searching for their names or going through all sub-breeds.
