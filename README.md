@@ -121,38 +121,6 @@ Jollof Republic is a restaurant app that allows users to search, view details on
 
 
 ---
-# Dogpedia
-
-Dogpedia is an app that allows users to search and view details on any breed of dogs, their sub-breeds as well as multiple images. It also allows users to save their favorite breeds so that they are readily available to be viewed at a later time without searching for their names or going through all sub-breeds.
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/66224847/193027201-be4f5c4d-fb15-4635-9481-f2ce932bc680.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/66224847/193027205-83eaf927-4058-47ac-b4e2-d488790c2d54.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/66224847/193027208-2ec54585-76f1-4d3a-bcb3-5342bcb1af0b.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/66224847/193027211-13a16c8e-3d5a-4fdf-bfbe-88701bb7834d.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/66224847/193027212-518fa150-a05b-4652-9e42-e00589eae801.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/66224847/193027216-c859a8dd-2f4d-4c75-8073-aa675ba51c6c.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/66224847/193027219-c71db91c-c18b-468b-963e-f27c7b8eee49.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/66224847/193027222-9018bdb7-5a1c-4952-ac32-f1f7a122e9d6.png" width="200" /> 
-</p>
-
-### Tools Used: ###
-* Swift
-* UiKit
-* Combine
-* URLSession
-* CocoaPods
-* Kingfisher
-* Realm
-* Dog ceo's API
-
-
-### Architectural Design Pattern:
-* MVVM
-
-### Unit Tests
-* XCTest
-
 
 ---
 # Cabbie
