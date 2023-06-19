@@ -83,45 +83,6 @@ Cocktailpedia is an app that allows users to search and view details on any kind
 
 
 ---
-
-# jollof-republic
-
-Jollof Republic is a restaurant app that allows users to search, view details on products available and make orders.
-
-<p align="left">
-    <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/81468113-4bca-48b6-a163-abfbaab4c518" width="200" />
-  <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/7c9d20f0-3a29-4e62-ade4-6d80f4d89652" width="200" />
-    <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/e593ea4c-54f4-4661-b1e4-23468005639b" width="200" />
-   <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/8a022ded-5082-4423-9a86-5bc2f5421f22" width="200" />
-  <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/ffacad1a-c538-4259-838d-f9bab41c354f" width="200" />   
-   <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/c0e012c2-13d1-4cbb-b572-df9beaad0110" width="200" />
-  <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/93326d92-1bca-445f-9c18-9151669954e5" width="200" />
-  <img src="https://github.com/oritsetseyiawani/oritsetseyiawani/assets/66224847/ac357d88-8516-4737-b2f1-4846b4eace93" width="200" />
-  
-</p>
-
-### Tools Used: ###
-
-* Swift
-* UiKit
-* Combine
-* URLSession
-* Swift Package Manager
-* Kingfisher
-* Firebase
-
-
-### Architectural Design Pattern:
-* MVVM
-
-### Unit Tests
-* XCTest
-
-
-
-
----
-
 ---
 # Cabbie
 
