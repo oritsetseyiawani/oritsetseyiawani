@@ -88,8 +88,6 @@ Jollof Republic is a restaurant app that allows users to search, view details on
 * XCTest
 
 
-#### Learn more about Cocktailpedia: https://github.com/oritsetseyiawani/cocktailpedia ####
-
 
 ---
 ---
