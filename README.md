@@ -70,6 +70,7 @@ Jollof Republic is a restaurant app that allows users to search, view details on
 ### Tools Used: ###
 * Swift
 * UiKit
+* SwiftUI
 * Combine
 * URLSession
 * Swift Package Manager
