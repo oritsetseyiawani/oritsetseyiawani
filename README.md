@@ -74,7 +74,6 @@ Jollof Republic is a restaurant app that allows users to search, view details on
 * URLSession
 * Swift Package Manager
 * Kingfisher
-* Realm
 * Firebase
 * ApplePay
 * KingFisher
