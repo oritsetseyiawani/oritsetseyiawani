@@ -46,6 +46,54 @@ I'm very passionate about iOS Development
 
 ---
 
+# Jollof Republic
+
+Jollof Republic is a restaurant app that allows users to search, view details on products available and make orders.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f636781b-8f02-4104-9e8c-851ef67521bc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/36288857-b444-4fad-9f71-b89a6de84529" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/1843162e-07be-49b3-a256-f58f76e1b783" width="200"/>
+  <img src="https://github.com/user-attachments/assets/02949549-7ddb-4ab8-b060-c15b3f4eceef" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/b3ae85d6-ec45-4cb2-bb51-19be5989783c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/29728bc5-4a77-4ffd-951a-35577cc52e15" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/e317b306-0429-47b4-a5ef-a29db8e4bb2e" width="200"/>
+  <img src="https://github.com/user-attachments/assets/194020d3-4de2-4236-a644-439b682f7f49" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/26c21518-eb10-4aa1-aa15-aae771dafb28" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bce66756-d1c5-4532-af09-7a489e165c78" width="200"/> 
+  <img src="https://github.com/user-attachments/assets/753cc629-53c3-44bb-8792-34f537f5c227" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a7a74bb1-73b7-4a67-a902-0884717ababb" width="200"/> 
+</p>
+
+
+
+### Tools Used: ###
+* Swift
+* UiKit
+* Combine
+* URLSession
+* Swift Package Manager
+* Kingfisher
+* Realm
+* Firebase
+* ApplePay
+* KingFisher
+* Swiftformat
+
+
+### Architectural Design Pattern:
+* MVVM
+
+### Unit Tests
+* XCTest
+
+
+#### Learn more about Cocktailpedia: https://github.com/oritsetseyiawani/cocktailpedia ####
+
+
+---
+---
+
 # Cocktailpedia
 
 Cocktailpedia is an app that allows users to search and view details on any kind of cocktails, returns an image so the user can see what the end product would look like, as well as the ingredients and instructions to make the cocktail. It also allows users to save their favorite cocktails so that they are readily available to be viewed at a later time without searching for them all over again.
