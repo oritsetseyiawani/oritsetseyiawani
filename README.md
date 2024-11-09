@@ -40,7 +40,7 @@ I'm very passionate about iOS Development
 
 ### 📈 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oritsetseyiawani&theme=github-light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oritsetseyiawani&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
