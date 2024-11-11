@@ -47,7 +47,7 @@ I'm very passionate about iOS Development
 
 # Jollof Republic
 
-Jollof Republic is a restaurant app that allows users to search, view details on products available and make orders.
+Jollof Republic is a restaurant app that allows users to search, view details on products available in the restaurant and make orders.
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f636781b-8f02-4104-9e8c-851ef67521bc" width="200"/>
