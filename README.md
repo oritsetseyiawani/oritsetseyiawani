@@ -223,7 +223,7 @@ Communicate is an instant messaging platforms that allows users to chat.
 <!--
 
 -->
-
+<!--
 # Cryptocentric #
 
 Cryptocentric is an app that allows users to view details on different cryptocurrencies.
@@ -244,7 +244,7 @@ Cryptocentric is an app that allows users to view details on different cryptocur
 * MVC
 
 #### Learn more about Cryptocentric: https://github.com/oritsetseyiawani/cryptocentric ####
-
+-->
 
 
 <!--
