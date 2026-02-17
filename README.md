@@ -193,6 +193,8 @@ WeatherIos is an app that allows users to view details on the weather in any spe
 #### Learn more about weatherIos: https://github.com/oritsetseyiawani/weatherIos ####
 ---
 
+<!--
+
 # Communicate #
 
 Communicate is an instant messaging platforms that allows users to chat.
@@ -223,7 +225,7 @@ Communicate is an instant messaging platforms that allows users to chat.
 <!--
 
 -->
-<!--
+
 # Cryptocentric #
 
 Cryptocentric is an app that allows users to view details on different cryptocurrencies.
