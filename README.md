@@ -12,7 +12,7 @@ I'm very passionate about iOS Development
 ---
 
 ### 👨‍💻 About Me :
-I'm an enthusiastic iOS engineer with multiple years of experience, passionate about building great mobile apps. 
+I'm an enthusiastic iOS engineer with multiple years of experience, passionate about building great mobile apps. I am currently working on a bespoke iOS application for a restaurant business to strengthen my end-to-end product development skills
 * Reach me at andrewawani@yahoo.com
 
 ---
