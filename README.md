@@ -35,6 +35,7 @@ I'm an enthusiastic iOS engineer with multiple years of experience, passionate a
 
 </div>
 
+<!--
 ---
 
 ### 📈 My Stats :
@@ -44,6 +45,7 @@ I'm an enthusiastic iOS engineer with multiple years of experience, passionate a
 ---
 
 ---
+-->
 
 # Jollof Republic
 
